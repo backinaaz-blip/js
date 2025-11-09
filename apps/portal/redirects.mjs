@@ -742,6 +742,8 @@ const paymentRedirects = {
   "/payments/swap": "/bridge/swap",
   "/payments/tokens": "/bridge/tokens",
   "/payments/routes": "/bridge/routes",
+  "/payments/x402": "/x402",
+  "/payments/x402/:path*": "/x402/:path*",
 };
 
 const contractRedirects = {

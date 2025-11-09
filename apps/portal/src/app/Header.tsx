@@ -44,6 +44,10 @@ const links = [
     name: "Payments",
   },
   {
+    href: "/x402",
+    name: "x402",
+  },
+  {
     href: "/bridge",
     name: "Bridge",
   },

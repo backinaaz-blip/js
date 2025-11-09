@@ -184,6 +184,12 @@ function LearningResourcesSection() {
           title="Payments"
         />
         <ArticleCardIndex
+          description="Instant payments for APIs, websites, and agents"
+          href="/x402"
+          icon={ZapIcon}
+          title="x402"
+        />
+        <ArticleCardIndex
           description="Bridge, swap, and onramp tokens on any chain"
           href="/bridge"
           icon={CoinsIcon}
