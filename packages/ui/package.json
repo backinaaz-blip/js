@@ -50,7 +50,7 @@
     "@storybook/addon-links": "9.0.15",
     "@storybook/addon-onboarding": "9.0.15",
     "@storybook/nextjs": "9.0.15",
-    "@types/react": "19.1.8",
+    "@types/react": "19.2.2",
     "@types/react-dom": "19.1.6",
     "autoprefixer": "^10.4.21",
     "postcss": "8.5.6",
